@@ -1,0 +1,43 @@
+*{
+	margin-left: 70px;
+	margin-right: 70px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.boton{
+	border: 10px;
+	background-color: #D6EAF8;
+	width: 270px;
+	height: 20px;
+}
+.for{
+	background-color: #AED6F1;
+	text-align: center;
+}
+#e{
+	display: none;
+}
+#sel{
+	
+}
+#a{
+	color: green;
+}
+.genero{
+	margin: 1px;
+}
+#bot1{
+	background-color: blue;
+	color: white;
+	border: 1px;
+	width: 100px;
+	height: 30px;
+
+}
+#bot2{
+	background-color: blue;
+	color: white;
+	border: 1px;
+	width: 100px;
+	height: 30px;
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Formato</title>
+    <link rel="stylesheet" href="css/formato.css" />
+  </head>
+  <body>
+    <h1 class="for">Formulario</h1>
+    <div id="bot">
+      <button class="boton" id="e">
+        <a href="formulario.html" id="a">Formulario</a>
+      </button>
+      <br />
+      <button class="boton">
+        <a href="index.html" id="a">Hoja de vida</a>
+      </button>
+    </div>
+    <br />
+    <div>
+      <form>
+        <label for="name">Nombres: <input type="text" name="nombre" /></label>
+        <br />
+        <label for="name"
+          >Apellidos: <input type="text" name="apellido"
+        /></label>
+        <br />
+        <p>
+          Tipo de documento:
+          <select id="sel">
+            <option value="opcion0">Seleccione un elemento...</option>
+            <option value="opcion1">Cédula de ciudadanía</option>
+            <option value="opcion2">Cédula de extranjeria</option>
+            <option value="option3">Número de identificación personal</option>
+            <option value="option4">Número de identificación tributaria</option>
+            <option value="option5">Tarjeta de identidad</option>
+            <option value="option6">Pasaporte</option>
+          </select>
+        </p>
+        <label for="name"
+          >Número del documento: <input type="number" name="ndocumento"
+        /></label>
+        <br />
+        <label for="name">Email: <input type="email" name="email" /></label>
+        <p>Género:</p>
+        <label class="genero">
+          <input type="radio" name="genero" value="femenino" />Femenino
+        </label>
+
+        <label class="genero">
+          <input type="radio" name="genero" value="masculino" />Masculino
+        </label>
+
+        <label class="genero">
+          <input type="radio" name="genero" value="otro" />Otros
+        </label>
+        <label for="name"
+          >Número celular: <input type="number" name="ncelular"
+        /></label>
+        <button type="button" onclick="" id="bot1">Enviar</button>
+        <button type="button" onclick="" id="bot2">Limpiar</button>
+      </form>
+    </div>
+  </body>
+</html>
