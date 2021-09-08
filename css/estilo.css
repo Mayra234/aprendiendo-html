@@ -1,66 +1,67 @@
-*{
-	margin-left: 80px;
-	margin-right: 80px;
-	margin-top: 2px;
-	margin-bottom: 2px;
+* {
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
-.hoja{
-	text-align: center;
-	background-color: #C39BD3;
-	font-family: 'Times New Roman';
+.hoja {
+  text-align: center;
+  background-color: #c39bd3;
+  font-family: 'Times New Roman';
+  color: green;
 }
-#foto{
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	text-align: center;
+#foto {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
 }
-#img{
-	width: 200px;
-	height: 250px;
+#img {
+  width: 200px;
+  height: 250px;
 }
-#datos{
-	font-family: 'Times New Roman';
-	margin-left: 5px;
-	margin-right: 3px;
-	margin-top: 3px;
-	margin-bottom: 3px;
+#datos {
+  font-family: 'Times New Roman';
+  margin-left: 5px;
+  margin-right: 3px;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
-.input{
-	width: 60%;
-	background-color: #F5EEF8;
-	margin-right: 8px;
-	margin-left: 3px;
-	border: 3px;
-	font-family: 'Times New Roman';
-	text-align: center;
-	font-size: 100%;
+.input {
+  width: 60%;
+  background-color: #f5eef8;
+  margin-right: 8px;
+  margin-left: 3px;
+  border: 3px;
+  font-family: 'Times New Roman';
+  text-align: center;
+  font-size: 100%;
 }
-#par{
-	text-align: justify;
+#par {
+  text-align: justify;
 }
-.p{
-	font-weight: bold;
+.p {
+  font-weight: bold;
 }
-table{
-	width: 200px;
-	height: 200px;
-	margin-right: 100px;
-	margin-left: 400px;
-	text-align: center;
-	background-color: #D2B4DE;
+table {
+  width: 200px;
+  height: 200px;
+  margin-right: 100px;
+  margin-left: 400px;
+  text-align: center;
+  background-color: #d2b4de;
 }
-.boton{
-	border: 10px;
-	background-color: #E8DAEF;
-	color: black; 
-	width: 270px;
-	height: 20px;
+.boton {
+  border: 10px;
+  background-color: #e8daef;
+  color: black;
+  width: 270px;
+  height: 20px;
 }
-#e{
-	display: none;
+#e {
+  display: none;
 }
-#a{
-	color: #424949;
+#a {
+  color: #424949;
 }
